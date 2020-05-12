@@ -1,0 +1,2 @@
+# loancare
+My static website
